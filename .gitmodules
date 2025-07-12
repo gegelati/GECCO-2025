@@ -1,0 +1,4 @@
+[submodule "gegelati-apps"]
+	path = gegelati-apps
+	url = https://github.com/gegelati/gegelati-apps.git
+	branch = GeccoArtifacts
