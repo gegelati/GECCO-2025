@@ -20,6 +20,20 @@ cd GECCO2025
 sudo scriptLibraries.sh
 ```
 
+Now you can build the projet.
+
+```
+cd gegelati-apps/mujoco/ && mkdir bin && cd bin
+cmake -DCMAKE_BUILD_TYPE=Release .. && cmake --build . -j 
+cd ../..
+```
+
+Two nootebooks are available:
+ - *runTraining.ipynb* To launch trainings with either MAPLE, MATPG or TPG on any MuJoCo environment
+ - *results.ipynb* To look or generate the different results in the paper
+For *runTraining.ipynb*, or for the last section of *results.ipynb*, be sure to have the same OS for the compiler of the project and for the notebook runner.
+
+
 ## Contenu de répertoire
 ```
 ├─ GECCO2025                              # Dossier racine.

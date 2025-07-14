@@ -1,0 +1,4 @@
+**/codeGen
+**/*.clear.dot
+**/stateAndAction**
+**/dotFiles
