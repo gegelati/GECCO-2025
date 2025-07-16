@@ -1,0 +1,3 @@
+                                                 Train                      Valid
+      Gen   NbVert   NbActR  NbTeamR      Min      Avg      Max      Min      Avg      Max  T_mutat   T_eval  T_valid  T_decim  T_total
+        0     1000     1000        0    -1.28    68.67   436.65

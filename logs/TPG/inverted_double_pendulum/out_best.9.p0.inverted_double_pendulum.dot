@@ -1,0 +1,73 @@
+// File exported with GEGELATI v1.4.0
+// On the 2025-07-06 05:52:20
+// With the File::TPGGraphDotExporter
+digraph{
+	graph[pad = "0.212, 0.055" bgcolor = lightgray]
+	node[shape=circle style = filled label = ""]
+		T318402 [fillcolor="#1199bb"]
+		A318623 [fillcolor="#ff3366" shape=box margin=0.03 width=0 height=0 label="318623"]
+		T295077 [fillcolor="#66ddff"]
+		A290729 [fillcolor="#ff3366" shape=box margin=0.03 width=0 height=0 label="290729"]
+		A285923 [fillcolor="#ff3366" shape=box margin=0.03 width=0 height=0 label="285923"]
+		A292484 [fillcolor="#ff3366" shape=box margin=0.03 width=0 height=0 label="292484"]
+		A287956 [fillcolor="#ff3366" shape=box margin=0.03 width=0 height=0 label="287956"]
+		A295384 [fillcolor="#ff3366" shape=box margin=0.03 width=0 height=0 label="295384"]
+		P1090918 [fillcolor="#cccccc" shape=point label="0"] //
+		I1090918 [shape=box style=invis label="3|0&1|3#1|10&#92;n"] //0.484066|-0.110105|
+		P1090918 -> I1090918[style=invis]
+		A318623 [fillcolor="#ff3366" shape=box margin=0.03 width=0 height=0 label="318623"]
+		T318402 -> P1090918 -> A318623
+		P1090919 [fillcolor="#cccccc" shape=point label="0"] //
+		I1090919 [shape=box style=invis label="0|0&1|6#1|9&#92;n"] //-0.984239|0.617185|
+		P1090919 -> I1090919[style=invis]
+		T318402 -> P1090919 -> T295077
+		P1090920 [fillcolor="#cccccc" shape=point label="0"] //
+		I1090920 [shape=box style=invis label="3|0&1|3#1|10&#92;n"] //0.484066|-0.110105|
+		P1090920 -> I1090920[style=invis]
+		A290729 [fillcolor="#ff3366" shape=box margin=0.03 width=0 height=0 label="290729"]
+		T318402 -> P1090920 -> A290729
+		P1090921 [fillcolor="#cccccc" shape=point label="0"] //
+		I1090921 [shape=box style=invis label="3|0&1|3#1|10&#92;n"] //0.484066|-0.110105|
+		P1090921 -> I1090921[style=invis]
+		A285923 [fillcolor="#ff3366" shape=box margin=0.03 width=0 height=0 label="285923"]
+		T318402 -> P1090921 -> A285923
+		P1090922 [fillcolor="#cccccc" shape=point label="1"] //
+		I1090922 [shape=box style=invis label="10|7&1|0#1|2&#92;n18|3&1|7#0|5&#92;n12|3&0|3#0|7&#92;n0|0&0|3#1|2&#92;n11|0&0|8#1|8&#92;n11|2&1|2#1|6&#92;n1|0&0|2#0|0&#92;n4|1&0|2#0|2&#92;n12|0&0|1#0|8&#92;n14|7&1|6#1|6&#92;n10|0&0|8#0|7&#92;n"] //-0.960022|0.093264|-0.210164|-0.783800|0.973285|-0.511023|0.018084|0.797581|0.571951|0.290802|0.970438|0.024218|0.254675|-0.674134|-0.742468|0.917532|1.049273|0.652783|-0.866931|0.366413|0.063569|0.831829|
+		P1090922 -> I1090922[style=invis]
+		A318623 -> P1090922
+		P1090923 [fillcolor="#cccccc" shape=point label="0"] //
+		I1090923 [shape=box style=invis label="7|3&1|8#0|6&#92;n5|0&0|3#1|8&#92;n"] //-0.504056|0.440261|-0.847857|0.612633|
+		P1090923 -> I1090923[style=invis]
+		A292484 [fillcolor="#ff3366" shape=box margin=0.03 width=0 height=0 label="292484"]
+		T295077 -> P1090923 -> A292484
+		P1090924 [fillcolor="#cccccc" shape=point label="0"] //
+		I1090924 [shape=box style=invis label="7|3&1|8#0|6&#92;n5|0&0|3#1|8&#92;n"] //-0.504056|0.440261|-0.847857|0.612633|
+		P1090924 -> I1090924[style=invis]
+		A287956 [fillcolor="#ff3366" shape=box margin=0.03 width=0 height=0 label="287956"]
+		T295077 -> P1090924 -> A287956
+		P1090925 [fillcolor="#cccccc" shape=point label="0"] //
+		I1090925 [shape=box style=invis label="3|0&1|3#1|10&#92;n"] //0.484066|-0.110105|
+		P1090925 -> I1090925[style=invis]
+		A295384 [fillcolor="#ff3366" shape=box margin=0.03 width=0 height=0 label="295384"]
+		T295077 -> P1090925 -> A295384
+		P1090926 [fillcolor="#cccccc" shape=point label="1"] //
+		I1090926 [shape=box style=invis label="10|7&1|0#1|2&#92;n18|3&1|7#0|5&#92;n12|3&0|3#0|7&#92;n0|0&0|3#1|2&#92;n10|5&1|8#1|4&#92;n6|3&1|9#0|9&#92;n11|0&0|8#1|8&#92;n0|1&0|3#0|5&#92;n6|6&0|9#0|1&#92;n17|7&1|6#1|4&#92;n12|3&1|8#0|7&#92;n2|2&0|3#0|6&#92;n0|5&1|8#1|2&#92;n1|0&0|2#0|0&#92;n1|2&0|5#0|5&#92;n4|1&0|2#0|2&#92;n12|0&0|1#0|8&#92;n"] //-0.960022|0.093264|-0.210164|-0.783800|0.973285|-0.391773|0.018084|0.797581|0.512077|0.005474|0.031575|-0.942959|0.571951|0.290802|0.037464|-0.290697|-0.520451|-0.646764|0.298290|-0.836259|-0.808263|0.358916|-0.688949|0.329989|-0.218862|0.820359|0.254675|-0.674134|0.217509|0.251612|-0.742468|0.917532|1.049273|0.652783|
+		P1090926 -> I1090926[style=invis]
+		A290729 -> P1090926
+		P1090927 [fillcolor="#cccccc" shape=point label="1"] //
+		I1090927 [shape=box style=invis label="10|7&1|0#1|2&#92;n18|3&1|7#0|5&#92;n12|3&0|3#0|7&#92;n0|0&0|3#1|2&#92;n11|0&0|8#1|8&#92;n11|2&1|2#1|6&#92;n0|5&1|8#1|2&#92;n1|0&0|2#0|0&#92;n1|2&0|5#0|5&#92;n4|1&0|2#0|2&#92;n12|0&0|1#0|8&#92;n"] //-0.960022|0.093264|-0.210164|-0.783800|0.973285|-0.588271|0.018084|0.797581|0.571951|0.290802|0.970438|0.024218|-0.218862|0.820359|0.254675|-0.674134|0.217509|0.251612|-0.742468|0.917532|1.049273|0.652783|
+		P1090927 -> I1090927[style=invis]
+		A285923 -> P1090927
+		P1090928 [fillcolor="#cccccc" shape=point label="1"] //
+		I1090928 [shape=box style=invis label="5|0&1|1#1|3&#92;n"] //0.543323|-0.023648|
+		P1090928 -> I1090928[style=invis]
+		A292484 -> P1090928
+		P1090929 [fillcolor="#cccccc" shape=point label="1"] //
+		I1090929 [shape=box style=invis label="16|0&1|8#1|2&#92;n"] //-0.626748|0.178993|
+		P1090929 -> I1090929[style=invis]
+		A287956 -> P1090929
+		P1090930 [fillcolor="#cccccc" shape=point label="1"] //
+		I1090930 [shape=box style=invis label="10|7&1|0#1|2&#92;n18|3&1|7#0|5&#92;n12|3&0|3#0|7&#92;n0|0&0|3#1|2&#92;n11|0&0|8#1|8&#92;n11|2&1|2#1|6&#92;n0|5&1|8#1|2&#92;n1|0&0|2#0|0&#92;n1|2&0|5#0|5&#92;n4|1&0|2#0|2&#92;n12|0&0|1#0|8&#92;n"] //-0.960022|0.093264|-0.210164|-0.783800|0.973285|-0.391773|0.018084|0.797581|0.571951|0.290802|0.970438|0.024218|-0.218862|0.820359|0.254675|-0.674134|0.217509|0.251612|-0.742468|0.917532|1.049273|0.652783|
+		P1090930 -> I1090930[style=invis]
+		A295384 -> P1090930
+}

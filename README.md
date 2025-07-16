@@ -52,8 +52,6 @@ For *runTraining.ipynb*, or for the last section of *results.ipynb*, be sure to 
 │  │  │  │  │
 │  │  │  │  ├─ codeGen
 │  │  │  │  │
-│  │  │  │  ├─ dotFiles
-│  │  │  │  │
 │  │  │  │  ├─ bestPolicyStats.0.p0.ant.md
 │  │  │  │  │
 │  │  │  │  ├─ exported_params.ant.p0.json

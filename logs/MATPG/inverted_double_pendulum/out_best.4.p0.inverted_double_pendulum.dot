@@ -1,0 +1,48 @@
+// File exported with GEGELATI v1.4.0
+// On the 2025-07-09 02:10:12
+// With the File::TPGGraphDotExporter
+digraph{
+	graph[pad = "0.212, 0.055" bgcolor = lightgray]
+	node[shape=circle style = filled label = ""]
+		T192639 [fillcolor="#1199bb"]
+		A193232 [fillcolor="#ff3366" shape=box margin=0.03 width=0 height=0 label="0"]
+		A192877 [fillcolor="#ff3366" shape=box margin=0.03 width=0 height=0 label="0"]
+		A193758 [fillcolor="#ff3366" shape=box margin=0.03 width=0 height=0 label="0"]
+		A144206 [fillcolor="#ff3366" shape=box margin=0.03 width=0 height=0 label="0"]
+		P620047 [fillcolor="#cccccc" shape=point label="0"] //
+		I620047 [shape=box style=invis label="16|4&1|9#1|6&#92;n16|0&0|4#1|0&#92;n"] //0.348058|-0.836496|-0.492731|-0.971758|
+		P620047 -> I620047[style=invis]
+		A193232 [fillcolor="#ff3366" shape=box margin=0.03 width=0 height=0 label="0"]
+		T192639 -> P620047 -> A193232
+		P620048 [fillcolor="#cccccc" shape=point label="0"] //
+		I620048 [shape=box style=invis label="16|4&1|9#1|6&#92;n16|0&0|4#1|0&#92;n"] //0.348058|-0.836496|-0.492731|-0.971758|
+		P620048 -> I620048[style=invis]
+		A192877 [fillcolor="#ff3366" shape=box margin=0.03 width=0 height=0 label="0"]
+		T192639 -> P620048 -> A192877
+		P620049 [fillcolor="#cccccc" shape=point label="0"] //
+		I620049 [shape=box style=invis label="16|2&1|2#0|7&#92;n1|4&0|2#1|10&#92;n16|0&0|4#1|0&#92;n"] //0.188973|0.037757|-0.787481|-0.748954|-0.492731|-0.971758|
+		P620049 -> I620049[style=invis]
+		A193758 [fillcolor="#ff3366" shape=box margin=0.03 width=0 height=0 label="0"]
+		T192639 -> P620049 -> A193758
+		P620050 [fillcolor="#cccccc" shape=point label="0"] //
+		I620050 [shape=box style=invis label="16|4&1|9#1|6&#92;n16|0&0|4#1|0&#92;n"] //0.348058|-0.836496|-0.492731|-0.971758|
+		P620050 -> I620050[style=invis]
+		A144206 [fillcolor="#ff3366" shape=box margin=0.03 width=0 height=0 label="0"]
+		T192639 -> P620050 -> A144206
+		P620051 [fillcolor="#cccccc" shape=point label="1"] //
+		I620051 [shape=box style=invis label="1|5&1|7#1|6&#92;n11|5&0|5#1|0&#92;n9|5&0|5#0|9&#92;n11|7&0|5#1|7&#92;n11|0&1|2#0|7&#92;n"] //0.403386|-0.398376|-0.499477|0.445658|0.063777|0.190083|-0.346788|-0.938301|-2.413859|0.072895|
+		P620051 -> I620051[style=invis]
+		A193232 -> P620051
+		P620052 [fillcolor="#cccccc" shape=point label="1"] //
+		I620052 [shape=box style=invis label="1|5&1|7#1|6&#92;n11|5&0|5#1|0&#92;n9|5&0|5#0|9&#92;n11|7&0|5#1|7&#92;n11|0&1|2#0|7&#92;n8|0&0|0#1|7&#92;n"] //0.403386|-0.398376|-0.499477|0.445658|0.063777|0.190083|-0.346788|-0.938301|-2.413859|0.072895|-0.861183|0.505149|
+		P620052 -> I620052[style=invis]
+		A192877 -> P620052
+		P620053 [fillcolor="#cccccc" shape=point label="1"] //
+		I620053 [shape=box style=invis label="17|0&1|6#0|8&#92;n"] //-0.266065|0.320005|
+		P620053 -> I620053[style=invis]
+		A193758 -> P620053
+		P620054 [fillcolor="#cccccc" shape=point label="1"] //
+		I620054 [shape=box style=invis label="1|5&1|2#1|6&#92;n11|5&0|5#1|0&#92;n11|7&0|5#1|7&#92;n11|0&1|2#0|7&#92;n8|0&0|0#1|7&#92;n"] //0.403386|-0.398376|-0.499477|0.445658|-0.346788|-0.938301|-2.413859|0.072895|-0.861183|0.505149|
+		P620054 -> I620054[style=invis]
+		A144206 -> P620054
+}
