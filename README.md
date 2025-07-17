@@ -1,4 +1,4 @@
-# GRETSI 2025 Artefacts
+# GECCO 2025 Artefacts
 
 This repository is linked to the following publication :
 
@@ -34,16 +34,16 @@ Two nootebooks are available:
 For *runTraining.ipynb*, or for the last section of *results.ipynb*, be sure to have the same OS for the compiler of the project and for the notebook runner.
 
 
-## Contenu de répertoire
+## Repertory content
 ```
-├─ GECCO2025                              # Dossier racine.
+├─ GECCO2025                              # Root folder
 │  │                                                                       
 │  │                                           
 │  ├─ exported_results       
 │  │
 │  ├─ gegelati-apps/mujoco                          
 │  │   
-│  ├─ logs                                           # Experimental data.
+│  ├─ logs                                           # Experimental data
 │  │  │                                        
 │  │  │
 │  │  ├─ MAPLE
